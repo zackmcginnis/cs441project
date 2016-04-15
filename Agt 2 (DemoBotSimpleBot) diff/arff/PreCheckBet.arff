@@ -1,0 +1,33 @@
+@relation PreCheckBet
+
+@attribute roundCompletion numeric
+@attribute playersActed numeric
+@attribute playersToAct numeric
+@attribute gameCount numeric
+@attribute nbActionsThisRound numeric
+@attribute potSize numeric
+@attribute stackSize numeric
+@attribute nbSeatedPlayers numeric
+@attribute nbActivePlayers numeric
+@attribute activePlayerRatio numeric
+@attribute betFrequency numeric
+@attribute betFrequencyRound numeric
+@attribute VPIP numeric
+@attribute PFR numeric
+@attribute AF numeric
+@attribute AFq numeric
+@attribute AFAmount numeric
+@attribute WtSD numeric
+@attribute opponentVPIP numeric
+@attribute opponentPFR numeric
+@attribute opponentAF numeric
+@attribute opponentAFq numeric
+@attribute opponentLogAFAmount numeric
+@attribute opponentWtSD numeric
+@attribute betProb numeric
+@attribute action {check,bet}
+
+@data
+1,1,0,5675,1,64744,99,2,2,1,0.994395,0.15,0.173657,0.02723,0.790541,0.20209,-1.076811,0.002664,0.263286,0.253502,9.993378,0.568361,1.759284,0.002664,1,bet
+1,1,0,5791,1,65571,99,2,2,1,0.994523,0.32,0.173805,0.02703,0.786315,0.201115,-1.07759,0.002591,0.265436,0.255158,9.980645,0.570752,1.763599,0.002591,1,bet
+1,1,0,8413,1,89508.5,99,2,2,1,0.996466,0.433333,0.179066,0.029184,0.791408,0.201183,-1.079851,0.001676,0.285161,0.269768,9.01992,0.57354,1.786608,0.001676,1,bet

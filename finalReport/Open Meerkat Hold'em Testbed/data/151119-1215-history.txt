@@ -1,0 +1,3574 @@
+Full Tilt Poker Game #5018257091501912: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:13 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Js 9d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [As Kd]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.11
+Agt 2 (DemoBot/SimpleBot) calls $0.09
+*** FLOP *** [9c Kh 5s]
+Agt 2 (DemoBot/SimpleBot) bets $0.02
+Agt 1 (MCTSBot/MCTSBot) raises to $0.08
+Agt 2 (DemoBot/SimpleBot) raises to $0.14
+Agt 1 (MCTSBot/MCTSBot) raises to $0.53
+Agt 2 (DemoBot/SimpleBot) raises to $0.92
+Agt 1 (MCTSBot/MCTSBot) raises to $1.41
+Agt 2 (DemoBot/SimpleBot) raises to $1.89
+Agt 1 (MCTSBot/MCTSBot) calls $0.48
+Agt 2 (DemoBot/SimpleBot) shows [As Kd]
+Agt 1 (MCTSBot/MCTSBot) shows [Js 9d]
+*** TURN *** [9c Kh 5s] [Ts]
+*** RIVER *** [9c Kh 5s Ts] [Jd]
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($4.00)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) showed [Js 9d] and won ($4.00)
+
+
+Full Tilt Poker Game #5018257091501913: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:19 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4d 6d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [7h 5h]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501914: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:20 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ad 3d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3h 6d]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501915: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:20 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2h 6c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4d Ac]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501916: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:20 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5d 2d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9h 8h]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) checks
+*** FLOP *** [5c Js 2s]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $0.09
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.09 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501917: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:22 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9c 6c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Kc 7c]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501918: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:22 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Js Jc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5c Ac]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) checks
+*** FLOP *** [Tc 3c Ah]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $0.04
+Agt 2 (DemoBot/SimpleBot) calls $0.04
+*** TURN *** [Tc 3c Ah] [Qh]
+Agt 2 (DemoBot/SimpleBot) bets $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.12
+Agt 2 (DemoBot/SimpleBot) calls $0.08
+*** RIVER *** [Tc 3c Ah Qh] [6c]
+Agt 2 (DemoBot/SimpleBot) bets $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.17
+Agt 2 (DemoBot/SimpleBot) raises to $0.30
+Agt 1 (MCTSBot/MCTSBot) calls $0.13
+Agt 2 (DemoBot/SimpleBot) shows [5c Ac]
+Agt 1 (MCTSBot/MCTSBot) mucks
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.96)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [5c Ac] and won ($0.96)
+
+
+Full Tilt Poker Game #5018257091501919: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:25 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7h 6d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5s Qs]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501920: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:25 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jc 4s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Jd 7s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501921: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:25 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3s 5d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5c Ts]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501922: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:26 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ks Kc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3h As]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501923: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:26 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qs 5d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Js Kd]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.19
+Agt 2 (DemoBot/SimpleBot) calls $0.17
+*** FLOP *** [9c Qc Kh]
+Agt 1 (MCTSBot/MCTSBot) bets $0.18
+Agt 2 (DemoBot/SimpleBot) raises to $0.36
+Agt 1 (MCTSBot/MCTSBot) calls $0.18
+*** TURN *** [9c Qc Kh] [7c]
+Agt 1 (MCTSBot/MCTSBot) bets $0.25
+Agt 2 (DemoBot/SimpleBot) raises to $0.50
+Agt 1 (MCTSBot/MCTSBot) calls $0.25
+*** RIVER *** [9c Qc Kh 7c] [8h]
+Agt 1 (MCTSBot/MCTSBot) bets $0.02
+Agt 2 (DemoBot/SimpleBot) calls $0.02
+Agt 1 (MCTSBot/MCTSBot) shows [Qs 5d]
+Agt 2 (DemoBot/SimpleBot) shows [Js Kd]
+Agt 2 (DemoBot/SimpleBot) wins the pot ($2.14)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [Js Kd] and won ($2.14)
+
+
+Full Tilt Poker Game #5018257091501924: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:29 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2h 7c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4s Jd]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501925: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:29 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3d 2d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5d Qd]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501926: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:30 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ah 6d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ac Td]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.25
+Agt 2 (DemoBot/SimpleBot) calls $0.23
+*** FLOP *** [2s 9h 6h]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $1.75
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $1.75 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.50)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.50)
+
+
+Full Tilt Poker Game #5018257091501927: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:31 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kh Jc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qc 3d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.25
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.23 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501928: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:31 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3c 3h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9d 6c]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501929: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:31 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4h 2s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4d Qh]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501930: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:32 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9c Tc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Th 2s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501931: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:32 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6d Td]
+Dealt to Agt 2 (DemoBot/SimpleBot) [7s Js]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.29
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.27 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501932: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:32 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ad 5d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ah 9c]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501933: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:32 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc Qd]
+Dealt to Agt 2 (DemoBot/SimpleBot) [6h Jd]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.12
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.10 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501934: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:33 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s Ac]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Js 4s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501935: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:33 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc 5s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ks 5d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.73
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.71 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501936: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:33 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4c 6c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [7h Jh]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501937: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:34 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8d 6s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [8c 2s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.22
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.20 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501938: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:34 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3d 5d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3h 2d]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501939: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:34 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7d 9d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ah Tc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.23
+Agt 2 (DemoBot/SimpleBot) calls $0.21
+*** FLOP *** [4s Kc 8c]
+Agt 1 (MCTSBot/MCTSBot) bets $0.04
+Agt 2 (DemoBot/SimpleBot) raises to $0.08
+Agt 1 (MCTSBot/MCTSBot) raises to $0.27
+Agt 2 (DemoBot/SimpleBot) calls $0.19
+*** TURN *** [4s Kc 8c] [3h]
+Agt 1 (MCTSBot/MCTSBot) bets $0.17
+Agt 2 (DemoBot/SimpleBot) calls $0.17
+*** RIVER *** [4s Kc 8c 3h] [Js]
+Agt 1 (MCTSBot/MCTSBot) bets $0.02
+Agt 2 (DemoBot/SimpleBot) calls $0.02
+Agt 1 (MCTSBot/MCTSBot) shows [7d 9d]
+Agt 2 (DemoBot/SimpleBot) shows [Ah Tc]
+Agt 2 (DemoBot/SimpleBot) wins the pot ($1.38)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [Ah Tc] and won ($1.38)
+
+
+Full Tilt Poker Game #5018257091501940: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:37 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s Tc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4c Ac]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (DemoBot/SimpleBot) calls $0.02
+*** FLOP *** [3s Js Td]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $0.10
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.10 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.08)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.08)
+
+
+Full Tilt Poker Game #5018257091501941: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:38 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6d 9h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3c 6s]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501942: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:38 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qc Ks]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ac 9s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501943: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:38 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6c 8c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ad 8s]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501944: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:39 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ac 6c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4c Qc]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501945: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:39 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s Js]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2d 4h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.12
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.10 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501946: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:39 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ad 5s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Tc 7c]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.10
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.08 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501947: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:40 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6c 8h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4d Jc]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501948: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:40 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5h 3c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5c 7s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501949: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:40 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7d Qd]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5h 4c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.24
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.22 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501950: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:41 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [As Jd]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5h Kc]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.19
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.17 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501951: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:41 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7c Ac]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4h 2s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.65
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.63 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501952: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:42 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Th 5c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [7c 6s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501953: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:42 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3s 3h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [8s Ah]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.09
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.07 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501954: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:42 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qh 2h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2s Jh]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501955: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:42 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd 6s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3c Qc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501956: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:43 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8d 7h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [6d 5h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501957: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:43 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9d Jh]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Kc 3d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.45
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.43 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501958: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:43 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jh Jc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3d 4d]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) checks
+*** FLOP *** [4c 2s Kd]
+Agt 2 (DemoBot/SimpleBot) bets $0.02
+Agt 1 (MCTSBot/MCTSBot) calls $0.02
+*** TURN *** [4c 2s Kd] [5s]
+Agt 2 (DemoBot/SimpleBot) bets $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.19
+Agt 2 (DemoBot/SimpleBot) raises to $0.34
+Agt 1 (MCTSBot/MCTSBot) raises to $1.04
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.70 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.76)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.76)
+
+
+Full Tilt Poker Game #5018257091501959: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:45 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3d Jh]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ad 4h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.28
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.26 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501960: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:46 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jc 4h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2d Ac]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501961: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:46 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc Qc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4s Ad]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.24
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.22 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501962: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:46 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Td Kc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [6c Jc]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501963: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:46 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5c Jc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [6s Kd]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.05 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501964: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:47 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8h Kc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2h 2s]
+Agt 2 (DemoBot/SimpleBot) raises to $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.08
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.08)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.08)
+
+
+Full Tilt Poker Game #5018257091501965: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:47 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9s 5h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qc 2h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.72
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.70 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501966: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:48 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4c 7h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2c 4h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501967: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:48 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2s Tc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [6d 3c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.36
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.34 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501968: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:48 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4s Jd]
+Dealt to Agt 2 (DemoBot/SimpleBot) [7d 2c]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501969: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:48 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jd 7s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [7d 6s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.38
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.36 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501970: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:49 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3s Qd]
+Dealt to Agt 2 (DemoBot/SimpleBot) [8s 2c]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501971: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:49 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7d 5s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Jh Qc]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501972: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:49 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ks 6d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [8d 7c]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501973: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:49 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ts Tc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qh 4d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.61
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.59 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501974: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:50 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5s 8h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ts As]
+Agt 2 (DemoBot/SimpleBot) raises to $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.51
+Agt 2 (DemoBot/SimpleBot) calls $0.47
+*** FLOP *** [2c Tc 5c]
+Agt 2 (DemoBot/SimpleBot) bets $0.02
+Agt 1 (MCTSBot/MCTSBot) raises to $0.18
+Agt 2 (DemoBot/SimpleBot) raises to $0.34
+Agt 1 (MCTSBot/MCTSBot) raises to $0.51
+Agt 2 (DemoBot/SimpleBot) raises to $0.68
+Agt 1 (MCTSBot/MCTSBot) raises to $0.86
+Agt 2 (DemoBot/SimpleBot) raises to $1.04
+Agt 1 (MCTSBot/MCTSBot) raises to $1.23
+Agt 2 (DemoBot/SimpleBot) calls $0.19
+*** TURN *** [2c Tc 5c] [5d]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $0.05
+Agt 2 (DemoBot/SimpleBot) raises to $0.10
+Agt 1 (MCTSBot/MCTSBot) raises to $0.16
+Agt 2 (DemoBot/SimpleBot) raises to $0.22
+Agt 1 (MCTSBot/MCTSBot) raises to $0.26
+Agt 2 (DemoBot/SimpleBot) calls $0.04
+Agt 1 (MCTSBot/MCTSBot) shows [5s 8h]
+Agt 2 (DemoBot/SimpleBot) shows [Ts As]
+*** RIVER *** [2c Tc 5c 5d] [6h]
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($4.00)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) showed [5s 8h] and won ($4.00)
+
+
+Full Tilt Poker Game #5018257091501975: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:54 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4c Kc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9h Kd]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501976: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:54 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3s 2h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [8c Qh]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501977: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:54 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8h 7c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3d Jh]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501978: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:55 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [As 3s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [6c 9d]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501979: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:55 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7h Td]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qh 5c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.22
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.20 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501980: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:55 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd 7h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3h 7s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501981: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:55 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7s 9d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5s 5d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.15
+Agt 2 (DemoBot/SimpleBot) calls $0.13
+*** FLOP *** [4d Kh 8c]
+Agt 1 (MCTSBot/MCTSBot) bets $0.06
+Agt 2 (DemoBot/SimpleBot) calls $0.06
+*** TURN *** [4d Kh 8c] [Ad]
+Agt 1 (MCTSBot/MCTSBot) bets $0.11
+Agt 2 (DemoBot/SimpleBot) calls $0.11
+*** RIVER *** [4d Kh 8c Ad] [Td]
+Agt 1 (MCTSBot/MCTSBot) bets $0.03
+Agt 2 (DemoBot/SimpleBot) calls $0.03
+Agt 1 (MCTSBot/MCTSBot) shows [7s 9d]
+Agt 2 (DemoBot/SimpleBot) shows [5s 5d]
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.70)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [5s 5d] and won ($0.70)
+
+
+Full Tilt Poker Game #5018257091501982: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:57 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qc 8d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2d 4h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501983: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:57 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9c Qd]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Js 7c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.89
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.87 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501984: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:58 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7h 9d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Kh 4c]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501985: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:58 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s 3s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3d 4h]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501986: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:58 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Td 9s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qh Th]
+Agt 2 (DemoBot/SimpleBot) raises to $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.03 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.08)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.08)
+
+
+Full Tilt Poker Game #5018257091501987: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:15:59 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4s Kh]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2d Jc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.37
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.35 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501988: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:00 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2d 6d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qc 8d]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501989: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:00 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5h Ac]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Kh Js]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.09
+Agt 2 (DemoBot/SimpleBot) calls $0.07
+*** FLOP *** [Qd Ad 3c]
+Agt 1 (MCTSBot/MCTSBot) bets $0.09
+Agt 2 (DemoBot/SimpleBot) calls $0.09
+*** TURN *** [Qd Ad 3c] [9s]
+Agt 1 (MCTSBot/MCTSBot) bets $0.17
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.17 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.36)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.36)
+
+
+Full Tilt Poker Game #5018257091501990: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:01 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jh 4h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [8h 2h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501991: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:01 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3h 7d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qh Tc]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501992: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:02 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5c 2s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [6d Qd]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501993: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:02 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Td Kc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2s As]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.14
+Agt 2 (DemoBot/SimpleBot) calls $0.12
+*** FLOP *** [Th 7s 8h]
+Agt 1 (MCTSBot/MCTSBot) bets $0.50
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.50 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.28)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.28)
+
+
+Full Tilt Poker Game #5018257091501994: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:03 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kd 8d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3d 5s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501995: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:03 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8h 2d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [8c 6c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.73
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.71 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501996: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:03 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd 2h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5d 7s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501997: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:03 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc 6s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [7d Qs]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.15
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.13 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091501998: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:04 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4d 7h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5h Jd]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091501999: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:04 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3c 3s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ts Tc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.11
+Agt 2 (DemoBot/SimpleBot) calls $0.09
+*** FLOP *** [6d 5d 3d]
+Agt 1 (MCTSBot/MCTSBot) bets $0.12
+Agt 2 (DemoBot/SimpleBot) raises to $0.24
+Agt 1 (MCTSBot/MCTSBot) raises to $0.57
+Agt 2 (DemoBot/SimpleBot) raises to $0.90
+Agt 1 (MCTSBot/MCTSBot) raises to $1.24
+Agt 2 (DemoBot/SimpleBot) raises to $1.58
+Agt 1 (MCTSBot/MCTSBot) calls $0.34
+*** TURN *** [6d 5d 3d] [Kc]
+Agt 1 (MCTSBot/MCTSBot) bets $0.03
+Agt 2 (DemoBot/SimpleBot) raises to $0.07
+Agt 1 (MCTSBot/MCTSBot) raises to $0.11
+Agt 2 (DemoBot/SimpleBot) calls $0.04
+*** RIVER *** [6d 5d 3d Kc] [Kh]
+Agt 1 (MCTSBot/MCTSBot) bets $0.02
+Agt 2 (DemoBot/SimpleBot) raises to $0.06
+Agt 1 (MCTSBot/MCTSBot) calls $0.04
+Agt 2 (DemoBot/SimpleBot) shows [Ts Tc]
+Agt 1 (MCTSBot/MCTSBot) shows [3c 3s]
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($3.72)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) showed [3c 3s] and won ($3.72)
+
+
+Full Tilt Poker Game #5018257091502000: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:08 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7s 3d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3s Kc]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502001: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:08 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5c Ac]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9c Ad]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.18
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.16 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502002: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:09 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4s Kc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2c 9s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502003: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:09 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [As Ad]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9s Jh]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502004: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:09 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc 8s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [As 9c]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502005: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:09 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qh Kh]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2d 2s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.51
+Agt 2 (DemoBot/SimpleBot) calls $0.49
+*** FLOP *** [Kc 3c 6s]
+Agt 1 (MCTSBot/MCTSBot) bets $0.63
+Agt 2 (DemoBot/SimpleBot) raises to $1.26
+Agt 1 (MCTSBot/MCTSBot) calls $0.63
+*** TURN *** [Kc 3c 6s] [2h]
+Agt 1 (MCTSBot/MCTSBot) bets $0.03
+Agt 2 (DemoBot/SimpleBot) raises to $0.07
+Agt 1 (MCTSBot/MCTSBot) raises to $0.11
+Agt 2 (DemoBot/SimpleBot) raises to $0.15
+Agt 1 (MCTSBot/MCTSBot) raises to $0.19
+Agt 2 (DemoBot/SimpleBot) raises to $0.23
+Agt 1 (MCTSBot/MCTSBot) calls $0.04
+Agt 2 (DemoBot/SimpleBot) shows [2d 2s]
+Agt 1 (MCTSBot/MCTSBot) shows [Qh Kh]
+*** RIVER *** [Kc 3c 6s 2h] [8h]
+Agt 2 (DemoBot/SimpleBot) wins the pot ($4.00)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [2d 2s] and won ($4.00)
+
+
+Full Tilt Poker Game #5018257091502006: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:13 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3c 3h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9c 2s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502007: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:13 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4d 3c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3d Qh]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502008: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:13 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6h 3s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5s 7c]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502009: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:13 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8c 2h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [7c Jh]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502010: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:14 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ac Js]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qd 2c]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502011: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:14 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s 3s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Kd 6s]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502012: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:14 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5d 5c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Th Kh]
+Agt 2 (DemoBot/SimpleBot) raises to $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.11
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.07 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.08)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.08)
+
+
+Full Tilt Poker Game #5018257091502013: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:15 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc 4d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5c 5h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.47
+Agt 2 (DemoBot/SimpleBot) calls $0.45
+*** FLOP *** [3d 2h 8d]
+Agt 1 (MCTSBot/MCTSBot) bets $0.10
+Agt 2 (DemoBot/SimpleBot) raises to $0.20
+Agt 1 (MCTSBot/MCTSBot) raises to $0.32
+Agt 2 (DemoBot/SimpleBot) raises to $0.44
+Agt 1 (MCTSBot/MCTSBot) raises to $0.57
+Agt 2 (DemoBot/SimpleBot) raises to $0.70
+Agt 1 (MCTSBot/MCTSBot) calls $0.13
+*** TURN *** [3d 2h 8d] [8s]
+Agt 1 (MCTSBot/MCTSBot) bets $0.04
+Agt 2 (DemoBot/SimpleBot) calls $0.04
+*** RIVER *** [3d 2h 8d 8s] [6s]
+Agt 1 (MCTSBot/MCTSBot) bets $0.02
+Agt 2 (DemoBot/SimpleBot) raises to $0.06
+Agt 1 (MCTSBot/MCTSBot) calls $0.04
+Agt 2 (DemoBot/SimpleBot) shows [5c 5h]
+Agt 1 (MCTSBot/MCTSBot) mucks
+Agt 2 (DemoBot/SimpleBot) wins the pot ($2.54)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [5c 5h] and won ($2.54)
+
+
+Full Tilt Poker Game #5018257091502014: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:19 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9d Jc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [As 2s]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.27
+Agt 2 (DemoBot/SimpleBot) calls $0.25
+*** FLOP *** [Th 8d 5s]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $0.08
+Agt 2 (DemoBot/SimpleBot) calls $0.08
+*** TURN *** [Th 8d 5s] [8s]
+Agt 2 (DemoBot/SimpleBot) bets $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.15
+Agt 2 (DemoBot/SimpleBot) calls $0.11
+*** RIVER *** [Th 8d 5s 8s] [9s]
+Agt 2 (DemoBot/SimpleBot) bets $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $1.50
+Agt 2 (DemoBot/SimpleBot) calls $1.46
+Agt 1 (MCTSBot/MCTSBot) shows [9d Jc]
+Agt 2 (DemoBot/SimpleBot) shows [As 2s]
+Agt 2 (DemoBot/SimpleBot) wins the pot ($4.00)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [As 2s] and won ($4.00)
+
+
+Full Tilt Poker Game #5018257091502015: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:21 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Td Ad]
+Dealt to Agt 2 (DemoBot/SimpleBot) [6c 3h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.11
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.09 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502016: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:21 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3h As]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3d Ac]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502017: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:21 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Js 2h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3c 3h]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502018: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:22 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5h 4d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Jh Qh]
+Agt 2 (DemoBot/SimpleBot) raises to $0.04
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.02 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502019: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:22 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jd Ad]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3d 7c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.15
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.13 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502020: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:23 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9h 7h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Kd 2h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502021: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:23 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd 8c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2h 8s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.02 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502022: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:23 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Th 2c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [7s 4h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502023: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:23 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ah 3d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Jd Kc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.20
+Agt 2 (DemoBot/SimpleBot) calls $0.18
+*** FLOP *** [5d 2h Qd]
+Agt 1 (MCTSBot/MCTSBot) bets $0.12
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.12 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.40)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.40)
+
+
+Full Tilt Poker Game #5018257091502024: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:24 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7c 4s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Kd 6d]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502025: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:24 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4c Th]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ks Jd]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502026: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:25 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ts Td]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Kc Ks]
+Agt 2 (DemoBot/SimpleBot) raises to $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.10
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.06 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.08)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.08)
+
+
+Full Tilt Poker Game #5018257091502027: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:25 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qh 8h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9c 9h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.59
+Agt 2 (DemoBot/SimpleBot) calls $0.57
+*** FLOP *** [6h 2c 7s]
+Agt 1 (MCTSBot/MCTSBot) bets $0.02
+Agt 2 (DemoBot/SimpleBot) raises to $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.67
+Agt 2 (DemoBot/SimpleBot) raises to $1.30
+Agt 1 (MCTSBot/MCTSBot) raises to $1.41
+Agt 2 (DemoBot/SimpleBot) calls $0.11
+Agt 1 (MCTSBot/MCTSBot) shows [Qh 8h]
+Agt 2 (DemoBot/SimpleBot) shows [9c 9h]
+*** TURN *** [6h 2c 7s] [7d]
+*** RIVER *** [6h 2c 7s 7d] [Kd]
+Agt 2 (DemoBot/SimpleBot) wins the pot ($4.00)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [9c 9h] and won ($4.00)
+
+
+Full Tilt Poker Game #5018257091502028: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:27 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6c Tc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5s 8d]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502029: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:27 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ac 4c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Jc 4s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.29
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.27 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502030: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:28 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jh 5s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qc Js]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.11
+Agt 2 (DemoBot/SimpleBot) calls $0.09
+*** FLOP *** [Td Kc 5h]
+Agt 2 (DemoBot/SimpleBot) bets $0.02
+Agt 1 (MCTSBot/MCTSBot) raises to $0.50
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.48 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.26)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.26)
+
+
+Full Tilt Poker Game #5018257091502031: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:29 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8d As]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Kc Ad]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (DemoBot/SimpleBot) calls $0.04
+*** FLOP *** [6s Ts Th]
+Agt 1 (MCTSBot/MCTSBot) bets $0.27
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.27 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.12)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.12)
+
+
+Full Tilt Poker Game #5018257091502032: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:30 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc Qs]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4d Ac]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502033: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:30 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Tc 7c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3d 5d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.05 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502034: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:31 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jd As]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5s 3d]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502035: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:31 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jd 7c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ks 9s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.11
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.09 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502036: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:31 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9d 5h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Th 8s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502037: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:31 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9h 7s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [8d 3c]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502038: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:32 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd 8d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5h Ts]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502039: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:32 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qh 5d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [6d 2d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.15
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.13 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502040: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:32 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6c Tc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ad 4h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502041: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:32 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6h 2d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qh 9c]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502042: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:33 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jc 4c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qd Tc]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) checks
+*** FLOP *** [As 6c Td]
+Agt 2 (DemoBot/SimpleBot) bets $0.02
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.02 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502043: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:34 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ah 7d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ac 6d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.05 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502044: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:34 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9s 4s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [8s 4h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502045: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:34 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4d 5c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Jh Kh]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502046: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:35 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7c Qs]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4s 3d]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502047: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:35 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7s As]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5c Qs]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.81
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.79 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502048: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:35 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3c 7s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9d 4h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502049: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:35 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ts 9c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5h 7h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.05 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502050: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:36 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6c 2c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5c Td]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502051: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:36 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ac Jc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2h 2d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.70
+Agt 2 (DemoBot/SimpleBot) calls $0.68
+*** FLOP *** [Ad Ts 8s]
+Agt 1 (MCTSBot/MCTSBot) bets $0.05
+Agt 2 (DemoBot/SimpleBot) raises to $0.10
+Agt 1 (MCTSBot/MCTSBot) raises to $0.16
+Agt 2 (DemoBot/SimpleBot) calls $0.06
+*** TURN *** [Ad Ts 8s] [Jd]
+Agt 1 (MCTSBot/MCTSBot) bets $0.08
+Agt 2 (DemoBot/SimpleBot) calls $0.08
+*** RIVER *** [Ad Ts 8s Jd] [7s]
+Agt 1 (MCTSBot/MCTSBot) bets $0.14
+Agt 2 (DemoBot/SimpleBot) raises to $0.28
+Agt 1 (MCTSBot/MCTSBot) calls $0.14
+Agt 2 (DemoBot/SimpleBot) shows [2h 2d]
+Agt 1 (MCTSBot/MCTSBot) shows [Ac Jc]
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($2.44)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) showed [Ac Jc] and won ($2.44)
+
+
+Full Tilt Poker Game #5018257091502052: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:39 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7d 5h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3h 9d]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502053: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:39 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9c 2h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Jc Ts]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502054: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:39 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2h Ad]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Js 6s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502055: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:39 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6h 5h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3c 4s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.19
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.17 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502056: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:40 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9d 6s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [8c Ts]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502057: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:40 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s 2h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9c 5c]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502058: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:40 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7d 2s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4s 5d]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) checks
+*** FLOP *** [As Js 6c]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $0.10
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.10 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502059: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:41 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Td 2s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9d 8d]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502060: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:42 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5c 4h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ks 2d]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.11
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.09 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502061: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:42 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ks 4s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Jc Kc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.09
+Agt 2 (DemoBot/SimpleBot) calls $0.07
+*** FLOP *** [5d 5s 2h]
+Agt 1 (MCTSBot/MCTSBot) bets $0.27
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.27 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.18)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.18)
+
+
+Full Tilt Poker Game #5018257091502062: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:43 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6h Qs]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9d Th]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502063: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:43 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4h 2s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [3c 7d]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502064: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:44 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6s 2d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [8h 8s]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.18
+Agt 2 (DemoBot/SimpleBot) calls $0.16
+*** FLOP *** [9h Td Qd]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $0.07
+Agt 2 (DemoBot/SimpleBot) calls $0.07
+*** TURN *** [9h Td Qd] [Kh]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $0.04
+Agt 2 (DemoBot/SimpleBot) calls $0.04
+*** RIVER *** [9h Td Qd Kh] [Ts]
+Agt 2 (DemoBot/SimpleBot) bets $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.10
+Agt 2 (DemoBot/SimpleBot) calls $0.06
+Agt 1 (MCTSBot/MCTSBot) shows [6s 2d]
+Agt 2 (DemoBot/SimpleBot) shows [8h 8s]
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.78)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [8h 8s] and won ($0.78)
+
+
+Full Tilt Poker Game #5018257091502065: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:46 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3s Td]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2d 4h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.89
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.87 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502066: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:46 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5d Qd]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ac 5s]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502067: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:46 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qs Qd]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Kc 6h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.23
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.21 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502068: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:47 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5s Ac]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5h Qs]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502069: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:47 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9d 6c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4c Ad]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502070: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:47 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qc 9c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5d Ks]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502071: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:47 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5d 5h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2h 2s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (DemoBot/SimpleBot) calls $0.04
+*** FLOP *** [4s 3c Qh]
+Agt 1 (MCTSBot/MCTSBot) bets $0.24
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.24 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.12)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.12)
+
+
+Full Tilt Poker Game #5018257091502072: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:48 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6c Qh]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Js 6d]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502073: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:48 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6d 4c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Js 7s]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502074: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:49 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2s Qh]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ts 2h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502075: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:49 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3s 6c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4c Jh]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502076: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:49 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9s 3c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9d 9h]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.18
+Agt 2 (DemoBot/SimpleBot) calls $0.16
+*** FLOP *** [5d Qd 4c]
+Agt 2 (DemoBot/SimpleBot) bets $0.02
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (DemoBot/SimpleBot) raises to $0.10
+Agt 1 (MCTSBot/MCTSBot) calls $0.04
+*** TURN *** [5d Qd 4c] [Qh]
+Agt 2 (DemoBot/SimpleBot) bets $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.09
+Agt 2 (DemoBot/SimpleBot) calls $0.05
+*** RIVER *** [5d Qd 4c Qh] [9c]
+Agt 2 (DemoBot/SimpleBot) bets $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.15
+Agt 2 (DemoBot/SimpleBot) raises to $0.26
+Agt 1 (MCTSBot/MCTSBot) raises to $0.38
+Agt 2 (DemoBot/SimpleBot) calls $0.12
+Agt 1 (MCTSBot/MCTSBot) shows [9s 3c]
+Agt 2 (DemoBot/SimpleBot) shows [9d 9h]
+Agt 2 (DemoBot/SimpleBot) wins the pot ($1.50)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [9d 9h] and won ($1.50)
+
+
+Full Tilt Poker Game #5018257091502077: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:52 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4h 8s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5c As]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.45
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.43 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502078: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:53 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8h Kc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2s Jd]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502079: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:53 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7s Qs]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9d Qc]
+Agt 1 (MCTSBot/MCTSBot) raises to $1.19
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $1.17 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502080: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:54 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2c Kc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Jc 6c]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502081: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:54 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3d 3h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4d 6c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.21
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.19 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502082: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:54 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7c Jc]
+Dealt to Agt 2 (DemoBot/SimpleBot) [As 2h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502083: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:54 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7s Qd]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ad 7d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.40
+Agt 2 (DemoBot/SimpleBot) calls $0.38
+*** FLOP *** [8d Td 2c]
+Agt 1 (MCTSBot/MCTSBot) bets $0.05
+Agt 2 (DemoBot/SimpleBot) calls $0.05
+*** TURN *** [8d Td 2c] [Js]
+Agt 1 (MCTSBot/MCTSBot) bets $0.04
+Agt 2 (DemoBot/SimpleBot) calls $0.04
+*** RIVER *** [8d Td 2c Js] [2s]
+Agt 1 (MCTSBot/MCTSBot) bets $0.02
+Agt 2 (DemoBot/SimpleBot) raises to $0.06
+Agt 1 (MCTSBot/MCTSBot) calls $0.04
+Agt 2 (DemoBot/SimpleBot) shows [Ad 7d]
+Agt 1 (MCTSBot/MCTSBot) mucks
+Agt 2 (DemoBot/SimpleBot) wins the pot ($1.10)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [Ad 7d] and won ($1.10)
+
+
+Full Tilt Poker Game #5018257091502084: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:57 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5c 4h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4c 7d]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502085: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:57 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [As 4h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2h 7c]
+Agt 1 (MCTSBot/MCTSBot) calls $0.01
+Agt 2 (DemoBot/SimpleBot) checks
+*** FLOP *** [Qh 7s Tc]
+Agt 1 (MCTSBot/MCTSBot) bets $0.13
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.13 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502086: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:58 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Tc 6h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Kc Ts]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) checks
+*** FLOP *** [3d Jh 6s]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $0.04
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502087: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:59 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2d Jh]
+Dealt to Agt 2 (DemoBot/SimpleBot) [7h 4d]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502088: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:59 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8d Ks]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Kc 5c]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502089: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:16:59 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2s 5c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5h Qc]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502090: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:00 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2s Js]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Th Kd]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.09
+Agt 2 (DemoBot/SimpleBot) calls $0.07
+*** FLOP *** [8c 6h 8d]
+Agt 2 (DemoBot/SimpleBot) bets $0.02
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (DemoBot/SimpleBot) calls $0.02
+*** TURN *** [8c 6h 8d] [7c]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $0.06
+Agt 2 (DemoBot/SimpleBot) calls $0.06
+*** RIVER *** [8c 6h 8d 7c] [Qh]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $0.04
+Agt 2 (DemoBot/SimpleBot) calls $0.04
+Agt 1 (MCTSBot/MCTSBot) shows [2s Js]
+Agt 2 (DemoBot/SimpleBot) shows [Th Kd]
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.46)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [Th Kd] and won ($0.46)
+
+
+Full Tilt Poker Game #5018257091502091: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:02 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3c 2s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2h Kh]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.96
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.94 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502092: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:02 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6h 4h]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qs Qc]
+Agt 2 (DemoBot/SimpleBot) raises to $0.04
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.02 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502093: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:03 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s 5d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ah Qs]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502094: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:03 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ac Ks]
+Dealt to Agt 2 (DemoBot/SimpleBot) [2d Qh]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502095: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:03 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s 3d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Jd Kd]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502096: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:04 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ad 4c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5d Ac]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502097: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:04 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3h Ah]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5c 8h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502098: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:04 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ah Ac]
+Dealt to Agt 2 (DemoBot/SimpleBot) [4c 4h]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (DemoBot/SimpleBot) calls $0.05
+*** FLOP *** [6h 3d As]
+Agt 2 (DemoBot/SimpleBot) bets $0.02
+Agt 1 (MCTSBot/MCTSBot) raises to $0.14
+Agt 2 (DemoBot/SimpleBot) calls $0.12
+*** TURN *** [6h 3d As] [Kd]
+Agt 2 (DemoBot/SimpleBot) bets $0.04
+Agt 1 (MCTSBot/MCTSBot) raises to $0.12
+Agt 2 (DemoBot/SimpleBot) calls $0.08
+*** RIVER *** [6h 3d As Kd] [9h]
+Agt 2 (DemoBot/SimpleBot) checks
+Agt 1 (MCTSBot/MCTSBot) bets $1.67
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $1.67 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.66)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.66)
+
+
+Full Tilt Poker Game #5018257091502099: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:06 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5s 6s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [9s Kh]
+Agt 1 (MCTSBot/MCTSBot) raises to $1.05
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $1.03 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5018257091502100: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:07 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ts Jd]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5d Js]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502101: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:07 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd Ah]
+Dealt to Agt 2 (DemoBot/SimpleBot) [8h 9h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.15
+Agt 2 (DemoBot/SimpleBot) calls $0.13
+*** FLOP *** [Jh 8d 2h]
+Agt 1 (MCTSBot/MCTSBot) bets $0.04
+Agt 2 (DemoBot/SimpleBot) raises to $0.08
+Agt 1 (MCTSBot/MCTSBot) raises to $0.20
+Agt 2 (DemoBot/SimpleBot) calls $0.12
+*** TURN *** [Jh 8d 2h] [4d]
+Agt 1 (MCTSBot/MCTSBot) bets $0.04
+Agt 2 (DemoBot/SimpleBot) raises to $0.08
+Agt 1 (MCTSBot/MCTSBot) raises to $0.14
+Agt 2 (DemoBot/SimpleBot) calls $0.06
+*** RIVER *** [Jh 8d 2h 4d] [3d]
+Agt 1 (MCTSBot/MCTSBot) bets $0.04
+Agt 2 (DemoBot/SimpleBot) calls $0.04
+Agt 1 (MCTSBot/MCTSBot) shows [Qd Ah]
+Agt 2 (DemoBot/SimpleBot) shows [8h 9h]
+Agt 2 (DemoBot/SimpleBot) wins the pot ($1.06)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [8h 9h] and won ($1.06)
+
+
+Full Tilt Poker Game #5018257091502102: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:10 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd 8s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [6s 9d]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502103: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:10 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2c 9d]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Qc 9h]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502104: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:10 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5d 3s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [6c 9h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502105: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:10 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Tc 7s]
+Dealt to Agt 2 (DemoBot/SimpleBot) [5d 3s]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502106: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:11 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd Jh]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Ts 8h]
+Agt 2 (DemoBot/SimpleBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502107: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:11 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (DemoBot/SimpleBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7s 4c]
+Dealt to Agt 2 (DemoBot/SimpleBot) [6c 2h]
+Agt 1 (MCTSBot/MCTSBot) folds
+Uncalled bet of $0.01 returned to Agt 2 (DemoBot/SimpleBot)
+Agt 2 (DemoBot/SimpleBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5018257091502108: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:17:11 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (DemoBot/SimpleBot) ($2.00)
+Agt 2 (DemoBot/SimpleBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8h Ks]
+Dealt to Agt 2 (DemoBot/SimpleBot) [Th Kd]
+Agt 2 (DemoBot/SimpleBot) calls $0.01
+Agt 1 (MCTSBot/MCTSBot) raises to $0.17
+Agt 2 (DemoBot/SimpleBot) calls $0.15
+*** FLOP *** [Tc As 6s]
+Agt 2 (DemoBot/SimpleBot) bets $0.02
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (DemoBot/SimpleBot) raises to $0.06
+Agt 1 (MCTSBot/MCTSBot) raises to $0.17
+Agt 2 (DemoBot/SimpleBot) raises to $0.28
+Agt 1 (MCTSBot/MCTSBot) raises to $1.83
+Agt 2 (DemoBot/SimpleBot) calls $1.55
+Agt 1 (MCTSBot/MCTSBot) shows [8h Ks]
+Agt 2 (DemoBot/SimpleBot) shows [Th Kd]
+*** TURN *** [Tc As 6s] [Jd]
+*** RIVER *** [Tc As 6s Jd] [2c]
+Agt 2 (DemoBot/SimpleBot) wins the pot ($4.00)
+*** SUMMARY ***
+Seat 2: Agt 2 (DemoBot/SimpleBot) showed [Th Kd] and won ($4.00)
+
+

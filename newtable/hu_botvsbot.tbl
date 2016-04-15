@@ -1,0 +1,14 @@
+<lineup title="Heads-up Bot vs Bot" nolimit="true">
+  <seat type="AlwaysCallBot" name="ACB2"/>
+  <seat type="empty"/>
+  <seat type="empty"/>
+  <seat type="empty"/>
+  <seat type="empty"/>
+  <seat type="AlwaysCallBot" name="ACB1"/>
+  <seat type="empty"/>
+  <seat type="empty"/>
+  <seat type="empty"/>
+  <seat type="empty"/>
+
+This will sit two bots vs each other, heads-up. 
+</lineup>

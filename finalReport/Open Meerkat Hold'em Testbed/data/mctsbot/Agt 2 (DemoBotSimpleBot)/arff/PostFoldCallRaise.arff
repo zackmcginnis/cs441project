@@ -1,0 +1,59 @@
+@relation PostFoldCallRaise
+
+@attribute roundCompletion numeric
+@attribute playersActed numeric
+@attribute playersToAct numeric
+@attribute round {flop,turn,river}
+@attribute gameCount numeric
+@attribute nbActionsThisRound numeric
+@attribute potSize numeric
+@attribute stackSize numeric
+@attribute deficit numeric
+@attribute potOdds numeric
+@attribute maxbet numeric
+@attribute nbSeatedPlayers numeric
+@attribute nbActivePlayers numeric
+@attribute activePlayerRatio numeric
+@attribute foldFrequency numeric
+@attribute callFrequency numeric
+@attribute raiseFrequency numeric
+@attribute foldFrequencyRound numeric
+@attribute callFrequencyRound numeric
+@attribute raiseFrequencyRound numeric
+@attribute isComitted {false,true}
+@attribute nbAllPlayerRaises numeric
+@attribute nbPlayerRaises numeric
+@attribute nbPlayerRoundRaises numeric
+@attribute gameRaisePercentage numeric
+@attribute gameRaiseAmount numeric
+@attribute gameRaiseAmountRatio numeric
+@attribute lastActionWasRaise {false,true}
+@attribute VPIP numeric
+@attribute PFR numeric
+@attribute AF numeric
+@attribute AFq numeric
+@attribute AFAmount numeric
+@attribute WtSD numeric
+@attribute opponentVPIP numeric
+@attribute opponentPFR numeric
+@attribute opponentAF numeric
+@attribute opponentAFq numeric
+@attribute opponentLogAFAmount numeric
+@attribute opponentWtSD numeric
+@attribute foldProb numeric
+@attribute callProb numeric
+@attribute raiseProb numeric
+@attribute action {fold,call,raise}
+
+@data
+0,0,1,flop,1,2,11.5,96,1.252763,0.233333,1.504077,2,2,1,0.473333,0.44,0.106667,0.59,0.29,0.12,true,3,1,1,0.333333,0.693147,0.153846,true,0.44,0.128,1.857143,0.275,-0.068993,0.456,0.44,0.328,2.8,0.457143,0.650588,0.456,0,0,1,raise
+0,0,1,flop,1,4,40,89,2.890372,0.310345,3.258096,2,2,1,0.405714,0.377143,0.234286,0.472,0.232,0.296,true,5,2,2,0.4,1.704748,0.160714,true,0.44,0.128,2,0.355556,-0.04652,0.456,0.44,0.328,3,0.525,1.133098,0.456,0,0,1,raise
+0,0,1,flop,1,6,147,53,3.970292,0.265,4.574711,2,2,1,0.355,0.33,0.33,0.393333,0.193333,0.413333,true,7,3,3,0.428571,3.157,0.227273,true,0.44,0.128,2.142857,0.42,-0.017392,0.456,0.44,0.328,3.2,0.577778,1.098612,0.456,0,1,0,call
+0,0,1,flop,5,1,241,97,2.995732,0.076628,2.995732,2,2,1,0.295385,0.510769,0.203077,0.337143,0.308571,0.354286,false,2,0,0,0,0,0,false,0.466667,0.071111,1.363636,0.28,-1.092747,0.38,0.466667,0.404444,3.8,0.585714,1.426389,0.38,1,0,0,fold
+0,0,1,flop,7,2,260,96,2.251292,0.03525,2.351375,2,2,1,0.3025,0.54,0.165,0.42,0.27,0.31,true,3,1,1,0.333333,0.693147,0.08,true,0.472727,0.058182,1.230769,0.273684,-1.087249,0.325714,0.472727,0.421818,4.2,0.6,1.486378,0.325714,0,0,1,raise
+0,0,1,flop,7,4,301,77,2.525729,0.039872,3.48124,2,2,1,0.284706,0.508235,0.214118,0.373333,0.24,0.386667,true,5,2,2,0.4,2.442347,0.304348,true,0.472727,0.058182,1.307692,0.31,-0.911149,0.325714,0.472727,0.421818,4.4,0.622222,1.293284,0.325714,0,0,1,raise
+0,0,1,flop,7,6,351.5,52,2.564949,0.035665,4.060443,2,2,1,0.268889,0.48,0.257778,0.336,0.216,0.448,true,7,3,3,0.428571,3.178054,0.383333,true,0.472727,0.058182,1.384615,0.342857,-0.754343,0.325714,0.472727,0.421818,4.6,0.642105,1.098612,0.325714,0,0,1,raise
+0,0,1,flop,7,8,404.5,26,2.639057,0.033453,4.442651,2,2,1,0.254737,0.454737,0.296842,0.305455,0.196364,0.498182,true,9,4,4,0.444444,3.610918,0.413793,true,0.472727,0.058182,1.461538,0.372727,-0.641446,0.325714,0.472727,0.421818,4.8,0.66,0.957931,0.325714,0,1,0,call
+0,0,1,turn,7,2,424.5,10,0.693147,0.004689,1.386294,2,2,1,0.242,0.482,0.282,0.53,0.37,0.1,true,11,5,1,0.454545,3.663562,0.417582,true,0.472727,0.058182,1.428571,0.383333,-0.719123,0.325714,0.472727,0.421818,5,0.67619,0.938933,0.325714,0,1,0,call
+0,0,1,river,7,2,432.5,6,0.693147,0.004603,1.386294,2,2,1,0.230476,0.506667,0.268571,0.56,0.35,0.09,true,13,6,1,0.461538,3.713572,0.421053,true,0.472727,0.058182,1.4,0.392308,-0.704037,0.325714,0.472727,0.421818,5.2,0.690909,0.920725,0.325714,0,0,1,raise
+0,0,1,river,7,4,440.5,2,0.693147,0.00452,2.079442,2,2,1,0.22,0.483636,0.301818,0.448,0.28,0.272,true,15,7,2,0.466667,3.7612,0.424242,true,0.472727,0.058182,1.466667,0.414815,-0.689595,0.325714,0.472727,0.421818,5.4,0.704348,0.903256,0.325714,0,1,0,call

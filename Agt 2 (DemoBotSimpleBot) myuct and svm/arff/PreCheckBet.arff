@@ -1,0 +1,39 @@
+@relation PreCheckBet
+
+@attribute roundCompletion numeric
+@attribute playersActed numeric
+@attribute playersToAct numeric
+@attribute gameCount numeric
+@attribute nbActionsThisRound numeric
+@attribute potSize numeric
+@attribute stackSize numeric
+@attribute nbSeatedPlayers numeric
+@attribute nbActivePlayers numeric
+@attribute activePlayerRatio numeric
+@attribute betFrequency numeric
+@attribute betFrequencyRound numeric
+@attribute VPIP numeric
+@attribute PFR numeric
+@attribute AF numeric
+@attribute AFq numeric
+@attribute AFAmount numeric
+@attribute WtSD numeric
+@attribute opponentVPIP numeric
+@attribute opponentPFR numeric
+@attribute opponentAF numeric
+@attribute opponentAFq numeric
+@attribute opponentLogAFAmount numeric
+@attribute opponentWtSD numeric
+@attribute betProb numeric
+@attribute action {check,bet}
+
+@data
+1,1,0,88,1,940.5,99,2,2,1,0.67,0.15,0.132609,0.039565,1.115385,0.2,-1.169648,0.19,0.197826,0.18087,5,0.478049,1.552556,0.19,1,bet
+1,1,0,140,1,1425,99,2,2,1,0.736,0.32,0.175,0.053056,0.926829,0.186301,-1.212388,0.114,0.230556,0.212778,6.416667,0.509231,1.79025,0.114,1,bet
+1,1,0,2572,1,24247,99,2,2,1,0.986462,0.433333,0.154193,0.030916,0.764706,0.187432,-1.338621,0.007147,0.212034,0.206382,8.458015,0.491137,2.031278,0.007147,1,bet
+1,1,0,4292,1,40169,99,2,2,1,0.992096,0.514286,0.152514,0.028315,0.757273,0.191076,-1.229196,0.00427,0.205819,0.200568,8.859903,0.487096,1.915447,0.00427,1,bet
+1,1,0,7384,1,70029.5,99,2,2,1,0.99557,0.575,0.156497,0.027834,0.778186,0.198331,-1.152525,0.00242,0.201705,0.196622,8.539295,0.482143,1.915765,0.00242,1,bet
+1,1,0,7708,1,73416.5,99,2,2,1,0.995843,0.622222,0.157832,0.027184,0.782198,0.200359,-1.1404,0.002291,0.202049,0.197049,8.466837,0.48415,1.890942,0.002291,1,bet
+1,1,0,8378,1,80400.5,99,2,2,1,0.99625,0.66,0.158817,0.027874,0.790793,0.202585,-1.141174,0.002098,0.203913,0.198955,8.285388,0.485339,1.880497,0.002098,1,bet
+1,1,0,8424,1,80930,99,2,2,1,0.996302,0.690909,0.15878,0.028078,0.794024,0.20336,-1.135922,0.002088,0.204224,0.199293,8.292517,0.485966,1.878214,0.002088,1,bet
+1,1,0,9422,1,89359.5,99,2,2,1,0.99665,0.716667,0.158943,0.028394,0.789902,0.202095,-1.136555,0.001869,0.202016,0.19697,8.315574,0.48371,1.880234,0.001869,1,bet

@@ -1,0 +1,3019 @@
+Full Tilt Poker Game #5017921476493520: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:09:38 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Js 9d]
+Dealt to Agt 2 (PrologBot/PrologBot) [As Kd]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493521: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:05 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4d 6d]
+Dealt to Agt 2 (PrologBot/PrologBot) [7h 5h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.35
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.33 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493522: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:06 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ad 3d]
+Dealt to Agt 2 (PrologBot/PrologBot) [3h 6d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493523: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:06 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2h 6c]
+Dealt to Agt 2 (PrologBot/PrologBot) [4d Ac]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.02 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493524: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:07 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5d 2d]
+Dealt to Agt 2 (PrologBot/PrologBot) [9h 8h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493525: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:07 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9c 6c]
+Dealt to Agt 2 (PrologBot/PrologBot) [Kc 7c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.43
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.41 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493526: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:07 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Js Jc]
+Dealt to Agt 2 (PrologBot/PrologBot) [5c Ac]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493527: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:07 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7h 6d]
+Dealt to Agt 2 (PrologBot/PrologBot) [5s Qs]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.05 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493528: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:08 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jc 4s]
+Dealt to Agt 2 (PrologBot/PrologBot) [Jd 7s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493529: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:08 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3s 5d]
+Dealt to Agt 2 (PrologBot/PrologBot) [5c Ts]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.02 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493530: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:08 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ks Kc]
+Dealt to Agt 2 (PrologBot/PrologBot) [3h As]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493531: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:08 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qs 5d]
+Dealt to Agt 2 (PrologBot/PrologBot) [Js Kd]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.43
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.41 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493532: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:09 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2h 7c]
+Dealt to Agt 2 (PrologBot/PrologBot) [4s Jd]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493533: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:09 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3d 2d]
+Dealt to Agt 2 (PrologBot/PrologBot) [5d Qd]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.56
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.54 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493534: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:09 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ah 6d]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ac Td]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493535: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:10 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kh Jc]
+Dealt to Agt 2 (PrologBot/PrologBot) [Qc 3d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.10
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.08 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493536: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:10 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3c 3h]
+Dealt to Agt 2 (PrologBot/PrologBot) [9d 6c]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493537: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:10 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4h 2s]
+Dealt to Agt 2 (PrologBot/PrologBot) [4d Qh]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.28
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.26 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493538: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:11 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9c Tc]
+Dealt to Agt 2 (PrologBot/PrologBot) [Th 2s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493539: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:11 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6d Td]
+Dealt to Agt 2 (PrologBot/PrologBot) [7s Js]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.15
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.13 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493540: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:11 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ad 5d]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ah 9c]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493541: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:11 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc Qd]
+Dealt to Agt 2 (PrologBot/PrologBot) [6h Jd]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.40
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.38 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493542: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:12 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s Ac]
+Dealt to Agt 2 (PrologBot/PrologBot) [Js 4s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493543: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:12 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc 5s]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ks 5d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.14
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.12 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493544: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:12 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4c 6c]
+Dealt to Agt 2 (PrologBot/PrologBot) [7h Jh]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493545: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:12 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8d 6s]
+Dealt to Agt 2 (PrologBot/PrologBot) [8c 2s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.05
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.03 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493546: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:13 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3d 5d]
+Dealt to Agt 2 (PrologBot/PrologBot) [3h 2d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493547: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:13 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7d 9d]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ah Tc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493548: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:13 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s Tc]
+Dealt to Agt 2 (PrologBot/PrologBot) [4c Ac]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493549: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:13 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6d 9h]
+Dealt to Agt 2 (PrologBot/PrologBot) [3c 6s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.02 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493550: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:14 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qc Ks]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ac 9s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493551: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:14 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6c 8c]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ad 8s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.09
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.07 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493552: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:14 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ac 6c]
+Dealt to Agt 2 (PrologBot/PrologBot) [4c Qc]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493553: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:14 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s Js]
+Dealt to Agt 2 (PrologBot/PrologBot) [2d 4h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.05 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493554: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:15 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ad 5s]
+Dealt to Agt 2 (PrologBot/PrologBot) [Tc 7c]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493555: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:15 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6c 8h]
+Dealt to Agt 2 (PrologBot/PrologBot) [4d Jc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.05 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493556: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:15 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5h 3c]
+Dealt to Agt 2 (PrologBot/PrologBot) [5c 7s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493557: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:15 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7d Qd]
+Dealt to Agt 2 (PrologBot/PrologBot) [5h 4c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.26
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.24 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493558: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:16 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [As Jd]
+Dealt to Agt 2 (PrologBot/PrologBot) [5h Kc]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493559: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:16 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7c Ac]
+Dealt to Agt 2 (PrologBot/PrologBot) [4h 2s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.32
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.30 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493560: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:16 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Th 5c]
+Dealt to Agt 2 (PrologBot/PrologBot) [7c 6s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493561: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:16 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3s 3h]
+Dealt to Agt 2 (PrologBot/PrologBot) [8s Ah]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.19
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.17 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493562: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:17 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qh 2h]
+Dealt to Agt 2 (PrologBot/PrologBot) [2s Jh]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493563: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:17 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd 6s]
+Dealt to Agt 2 (PrologBot/PrologBot) [3c Qc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.14
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.12 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493564: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:17 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8d 7h]
+Dealt to Agt 2 (PrologBot/PrologBot) [6d 5h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493565: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:18 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9d Jh]
+Dealt to Agt 2 (PrologBot/PrologBot) [Kc 3d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.28
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.26 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493566: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:18 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jh Jc]
+Dealt to Agt 2 (PrologBot/PrologBot) [3d 4d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493567: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:18 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3d Jh]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ad 4h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493568: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:19 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jc 4h]
+Dealt to Agt 2 (PrologBot/PrologBot) [2d Ac]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493569: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:19 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc Qc]
+Dealt to Agt 2 (PrologBot/PrologBot) [4s Ad]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.48
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.46 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493570: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:19 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Td Kc]
+Dealt to Agt 2 (PrologBot/PrologBot) [6c Jc]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493571: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:19 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5c Jc]
+Dealt to Agt 2 (PrologBot/PrologBot) [6s Kd]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.92
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.90 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493572: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:20 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8h Kc]
+Dealt to Agt 2 (PrologBot/PrologBot) [2h 2s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493573: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:20 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9s 5h]
+Dealt to Agt 2 (PrologBot/PrologBot) [Qc 2h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.02 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493574: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:20 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4c 7h]
+Dealt to Agt 2 (PrologBot/PrologBot) [2c 4h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493575: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:20 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2s Tc]
+Dealt to Agt 2 (PrologBot/PrologBot) [6d 3c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.23
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.21 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493576: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:21 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4s Jd]
+Dealt to Agt 2 (PrologBot/PrologBot) [7d 2c]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493577: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:21 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jd 7s]
+Dealt to Agt 2 (PrologBot/PrologBot) [7d 6s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.23
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.21 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493578: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:21 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3s Qd]
+Dealt to Agt 2 (PrologBot/PrologBot) [8s 2c]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493579: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:21 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7d 5s]
+Dealt to Agt 2 (PrologBot/PrologBot) [Jh Qc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.24
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.22 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493580: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:22 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ks 6d]
+Dealt to Agt 2 (PrologBot/PrologBot) [8d 7c]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493581: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:22 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ts Tc]
+Dealt to Agt 2 (PrologBot/PrologBot) [Qh 4d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.15
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.13 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493582: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:22 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5s 8h]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ts As]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493583: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:22 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4c Kc]
+Dealt to Agt 2 (PrologBot/PrologBot) [9h Kd]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493584: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:23 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3s 2h]
+Dealt to Agt 2 (PrologBot/PrologBot) [8c Qh]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493585: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:23 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8h 7c]
+Dealt to Agt 2 (PrologBot/PrologBot) [3d Jh]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.24
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.22 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493586: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:23 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [As 3s]
+Dealt to Agt 2 (PrologBot/PrologBot) [6c 9d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493587: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:23 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7h Td]
+Dealt to Agt 2 (PrologBot/PrologBot) [Qh 5c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.02 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493588: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:24 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd 7h]
+Dealt to Agt 2 (PrologBot/PrologBot) [3h 7s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493589: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:24 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7s 9d]
+Dealt to Agt 2 (PrologBot/PrologBot) [5s 5d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.05 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493590: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:24 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qc 8d]
+Dealt to Agt 2 (PrologBot/PrologBot) [2d 4h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493591: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:24 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9c Qd]
+Dealt to Agt 2 (PrologBot/PrologBot) [Js 7c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.05 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493592: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:25 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7h 9d]
+Dealt to Agt 2 (PrologBot/PrologBot) [Kh 4c]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493593: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:25 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s 3s]
+Dealt to Agt 2 (PrologBot/PrologBot) [3d 4h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.14
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.12 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493594: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:26 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Td 9s]
+Dealt to Agt 2 (PrologBot/PrologBot) [Qh Th]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493595: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:26 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4s Kh]
+Dealt to Agt 2 (PrologBot/PrologBot) [2d Jc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.35
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.33 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493596: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:26 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2d 6d]
+Dealt to Agt 2 (PrologBot/PrologBot) [Qc 8d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493597: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:26 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5h Ac]
+Dealt to Agt 2 (PrologBot/PrologBot) [Kh Js]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.12
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.10 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493598: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:27 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jh 4h]
+Dealt to Agt 2 (PrologBot/PrologBot) [8h 2h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493599: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:27 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3h 7d]
+Dealt to Agt 2 (PrologBot/PrologBot) [Qh Tc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.24
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.22 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493600: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:27 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5c 2s]
+Dealt to Agt 2 (PrologBot/PrologBot) [6d Qd]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493601: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:27 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Td Kc]
+Dealt to Agt 2 (PrologBot/PrologBot) [2s As]
+Agt 1 (MCTSBot/MCTSBot) raises to $1.33
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $1.31 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493602: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:28 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kd 8d]
+Dealt to Agt 2 (PrologBot/PrologBot) [3d 5s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493603: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:28 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8h 2d]
+Dealt to Agt 2 (PrologBot/PrologBot) [8c 6c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493604: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:28 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd 2h]
+Dealt to Agt 2 (PrologBot/PrologBot) [5d 7s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493605: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:28 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc 6s]
+Dealt to Agt 2 (PrologBot/PrologBot) [7d Qs]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.31
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.29 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493606: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:29 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4d 7h]
+Dealt to Agt 2 (PrologBot/PrologBot) [5h Jd]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493607: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:29 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3c 3s]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ts Tc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.13
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.11 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493608: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:29 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7s 3d]
+Dealt to Agt 2 (PrologBot/PrologBot) [3s Kc]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493609: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:29 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5c Ac]
+Dealt to Agt 2 (PrologBot/PrologBot) [9c Ad]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.31
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.29 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493610: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:30 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4s Kc]
+Dealt to Agt 2 (PrologBot/PrologBot) [2c 9s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493611: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:30 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [As Ad]
+Dealt to Agt 2 (PrologBot/PrologBot) [9s Jh]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.18
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.16 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493612: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:30 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc 8s]
+Dealt to Agt 2 (PrologBot/PrologBot) [As 9c]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493613: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:30 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qh Kh]
+Dealt to Agt 2 (PrologBot/PrologBot) [2d 2s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.14
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.12 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493614: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:31 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3c 3h]
+Dealt to Agt 2 (PrologBot/PrologBot) [9c 2s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493615: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:31 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4d 3c]
+Dealt to Agt 2 (PrologBot/PrologBot) [3d Qh]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.09
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.07 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493616: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:31 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6h 3s]
+Dealt to Agt 2 (PrologBot/PrologBot) [5s 7c]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493617: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:31 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8c 2h]
+Dealt to Agt 2 (PrologBot/PrologBot) [7c Jh]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.86
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.84 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493618: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:32 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ac Js]
+Dealt to Agt 2 (PrologBot/PrologBot) [Qd 2c]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493619: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:32 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s 3s]
+Dealt to Agt 2 (PrologBot/PrologBot) [Kd 6s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493620: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:32 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5d 5c]
+Dealt to Agt 2 (PrologBot/PrologBot) [Th Kh]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493621: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:32 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc 4d]
+Dealt to Agt 2 (PrologBot/PrologBot) [5c 5h]
+Agt 1 (MCTSBot/MCTSBot) raises to $1.65
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $1.63 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493622: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:33 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9d Jc]
+Dealt to Agt 2 (PrologBot/PrologBot) [As 2s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493623: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:33 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Td Ad]
+Dealt to Agt 2 (PrologBot/PrologBot) [6c 3h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493624: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:34 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3h As]
+Dealt to Agt 2 (PrologBot/PrologBot) [3d Ac]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493625: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:34 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Js 2h]
+Dealt to Agt 2 (PrologBot/PrologBot) [3c 3h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.14
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.12 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493626: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:34 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5h 4d]
+Dealt to Agt 2 (PrologBot/PrologBot) [Jh Qh]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493627: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:34 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jd Ad]
+Dealt to Agt 2 (PrologBot/PrologBot) [3d 7c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.14
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.12 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493628: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:35 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9h 7h]
+Dealt to Agt 2 (PrologBot/PrologBot) [Kd 2h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493629: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:35 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd 8c]
+Dealt to Agt 2 (PrologBot/PrologBot) [2h 8s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.09
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.07 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493630: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:35 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Th 2c]
+Dealt to Agt 2 (PrologBot/PrologBot) [7s 4h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493631: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:35 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ah 3d]
+Dealt to Agt 2 (PrologBot/PrologBot) [Jd Kc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.43
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.41 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493632: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:36 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7c 4s]
+Dealt to Agt 2 (PrologBot/PrologBot) [Kd 6d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493633: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:36 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4c Th]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ks Jd]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493634: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:36 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ts Td]
+Dealt to Agt 2 (PrologBot/PrologBot) [Kc Ks]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493635: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:36 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qh 8h]
+Dealt to Agt 2 (PrologBot/PrologBot) [9c 9h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.29
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.27 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493636: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:37 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6c Tc]
+Dealt to Agt 2 (PrologBot/PrologBot) [5s 8d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493637: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:37 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ac 4c]
+Dealt to Agt 2 (PrologBot/PrologBot) [Jc 4s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.13
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.11 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493638: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:37 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jh 5s]
+Dealt to Agt 2 (PrologBot/PrologBot) [Qc Js]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493639: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:37 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8d As]
+Dealt to Agt 2 (PrologBot/PrologBot) [Kc Ad]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.14
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.12 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493640: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:38 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Kc Qs]
+Dealt to Agt 2 (PrologBot/PrologBot) [4d Ac]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493641: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:38 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Tc 7c]
+Dealt to Agt 2 (PrologBot/PrologBot) [3d 5d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493642: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:38 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jd As]
+Dealt to Agt 2 (PrologBot/PrologBot) [5s 3d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493643: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:38 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jd 7c]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ks 9s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.13
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.11 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493644: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:39 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9d 5h]
+Dealt to Agt 2 (PrologBot/PrologBot) [Th 8s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493645: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:39 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9h 7s]
+Dealt to Agt 2 (PrologBot/PrologBot) [8d 3c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.19
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.17 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493646: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:39 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qd 8d]
+Dealt to Agt 2 (PrologBot/PrologBot) [5h Ts]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493647: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:39 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qh 5d]
+Dealt to Agt 2 (PrologBot/PrologBot) [6d 2d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.37
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.35 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493648: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:40 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6c Tc]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ad 4h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493649: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:40 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6h 2d]
+Dealt to Agt 2 (PrologBot/PrologBot) [Qh 9c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.02 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493650: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:40 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Jc 4c]
+Dealt to Agt 2 (PrologBot/PrologBot) [Qd Tc]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493651: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:40 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ah 7d]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ac 6d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.18
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.16 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493652: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:41 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9s 4s]
+Dealt to Agt 2 (PrologBot/PrologBot) [8s 4h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493653: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:41 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4d 5c]
+Dealt to Agt 2 (PrologBot/PrologBot) [Jh Kh]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.02 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493654: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:41 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7c Qs]
+Dealt to Agt 2 (PrologBot/PrologBot) [4s 3d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493655: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:41 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7s As]
+Dealt to Agt 2 (PrologBot/PrologBot) [5c Qs]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.19
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.17 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493656: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:42 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3c 7s]
+Dealt to Agt 2 (PrologBot/PrologBot) [9d 4h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493657: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:42 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ts 9c]
+Dealt to Agt 2 (PrologBot/PrologBot) [5h 7h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.02 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493658: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:42 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6c 2c]
+Dealt to Agt 2 (PrologBot/PrologBot) [5c Td]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493659: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:43 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ac Jc]
+Dealt to Agt 2 (PrologBot/PrologBot) [2h 2d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.05 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493660: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:43 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7d 5h]
+Dealt to Agt 2 (PrologBot/PrologBot) [3h 9d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493661: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:43 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9c 2h]
+Dealt to Agt 2 (PrologBot/PrologBot) [Jc Ts]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.05 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493662: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:44 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2h Ad]
+Dealt to Agt 2 (PrologBot/PrologBot) [Js 6s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493663: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:44 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6h 5h]
+Dealt to Agt 2 (PrologBot/PrologBot) [3c 4s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.11
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.09 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493664: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:44 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9d 6s]
+Dealt to Agt 2 (PrologBot/PrologBot) [8c Ts]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493665: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:44 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s 2h]
+Dealt to Agt 2 (PrologBot/PrologBot) [9c 5c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.33
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.31 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493666: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:45 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7d 2s]
+Dealt to Agt 2 (PrologBot/PrologBot) [4s 5d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493667: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:45 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Td 2s]
+Dealt to Agt 2 (PrologBot/PrologBot) [9d 8d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493668: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:45 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5c 4h]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ks 2d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493669: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:45 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ks 4s]
+Dealt to Agt 2 (PrologBot/PrologBot) [Jc Kc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.16
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.14 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493670: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:46 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6h Qs]
+Dealt to Agt 2 (PrologBot/PrologBot) [9d Th]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493671: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:46 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4h 2s]
+Dealt to Agt 2 (PrologBot/PrologBot) [3c 7d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.02 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493672: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:46 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6s 2d]
+Dealt to Agt 2 (PrologBot/PrologBot) [8h 8s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493673: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:46 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3s Td]
+Dealt to Agt 2 (PrologBot/PrologBot) [2d 4h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.85
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.83 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493674: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:47 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5d Qd]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ac 5s]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493675: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:47 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qs Qd]
+Dealt to Agt 2 (PrologBot/PrologBot) [Kc 6h]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.21
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.19 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493676: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:47 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5s Ac]
+Dealt to Agt 2 (PrologBot/PrologBot) [5h Qs]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493677: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:48 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9d 6c]
+Dealt to Agt 2 (PrologBot/PrologBot) [4c Ad]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.27
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.25 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493678: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:48 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Qc 9c]
+Dealt to Agt 2 (PrologBot/PrologBot) [5d Ks]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493679: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:48 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5d 5h]
+Dealt to Agt 2 (PrologBot/PrologBot) [2h 2s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.12
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.10 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493680: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:49 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6c Qh]
+Dealt to Agt 2 (PrologBot/PrologBot) [Js 6d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493681: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:49 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6d 4c]
+Dealt to Agt 2 (PrologBot/PrologBot) [Js 7s]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493682: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:49 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2s Qh]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ts 2h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493683: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:49 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3s 6c]
+Dealt to Agt 2 (PrologBot/PrologBot) [4c Jh]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493684: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:50 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [9s 3c]
+Dealt to Agt 2 (PrologBot/PrologBot) [9d 9h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493685: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:50 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [4h 8s]
+Dealt to Agt 2 (PrologBot/PrologBot) [5c As]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493686: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:50 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8h Kc]
+Dealt to Agt 2 (PrologBot/PrologBot) [2s Jd]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493687: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:50 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7s Qs]
+Dealt to Agt 2 (PrologBot/PrologBot) [9d Qc]
+Agt 1 (MCTSBot/MCTSBot) raises to $1.16
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $1.14 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493688: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:51 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2c Kc]
+Dealt to Agt 2 (PrologBot/PrologBot) [Jc 6c]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493689: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:51 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3d 3h]
+Dealt to Agt 2 (PrologBot/PrologBot) [4d 6c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.06
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.04 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493690: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:51 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7c Jc]
+Dealt to Agt 2 (PrologBot/PrologBot) [As 2h]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493691: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:51 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [7s Qd]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ad 7d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.29
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.27 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493692: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:52 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [5c 4h]
+Dealt to Agt 2 (PrologBot/PrologBot) [4c 7d]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493693: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:52 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [As 4h]
+Dealt to Agt 2 (PrologBot/PrologBot) [2h 7c]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.22
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.20 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493694: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:52 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Tc 6h]
+Dealt to Agt 2 (PrologBot/PrologBot) [Kc Ts]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493695: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:52 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2d Jh]
+Dealt to Agt 2 (PrologBot/PrologBot) [7h 4d]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.02 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493696: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:53 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8d Ks]
+Dealt to Agt 2 (PrologBot/PrologBot) [Kc 5c]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493697: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:53 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2s 5c]
+Dealt to Agt 2 (PrologBot/PrologBot) [5h Qc]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.04
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.02 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493698: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:53 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [2s Js]
+Dealt to Agt 2 (PrologBot/PrologBot) [Th Kd]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493699: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:53 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [3c 2s]
+Dealt to Agt 2 (PrologBot/PrologBot) [2h Kh]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.07
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.05 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493700: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:54 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [6h 4h]
+Dealt to Agt 2 (PrologBot/PrologBot) [Qs Qc]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+
+Full Tilt Poker Game #5017921476493701: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:54 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 1 (MCTSBot/MCTSBot) posts the small blind of $0.01
+Agt 2 (PrologBot/PrologBot) posts the big blind of $0.02
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [8s 5d]
+Dealt to Agt 2 (PrologBot/PrologBot) [Ah Qs]
+Agt 1 (MCTSBot/MCTSBot) raises to $0.08
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.06 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.04)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.04)
+
+
+Full Tilt Poker Game #5017921476493702: Table OpenTestBed - $0.01/$0.02 - Limit Hold'em - 12:10:55 PST - 2015/11/19
+Seat 1: Agt 1 (MCTSBot/MCTSBot) ($2.00)
+Seat 2: Agt 2 (PrologBot/PrologBot) ($2.00)
+Agt 2 (PrologBot/PrologBot) posts the small blind of $0.01
+Agt 1 (MCTSBot/MCTSBot) posts the big blind of $0.02
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Agt 1 (MCTSBot/MCTSBot) [Ac Ks]
+Dealt to Agt 2 (PrologBot/PrologBot) [2d Qh]
+Agt 2 (PrologBot/PrologBot) folds
+Uncalled bet of $0.01 returned to Agt 1 (MCTSBot/MCTSBot)
+Agt 1 (MCTSBot/MCTSBot) wins the pot ($0.02)
+*** SUMMARY ***
+Seat 1: Agt 1 (MCTSBot/MCTSBot) collected ($0.02)
+
+

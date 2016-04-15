@@ -1,0 +1,31 @@
+I would suggest opening the OpenTestBed project in the Eclipse IDE.
+Though it may be possible to open it in another IDE, I have no experience
+doing so.
+
+1.
+Once the OpenTestBed project is downloaded to your hard drive,
+open Eclipse IDE. From the project explorer, right click and select "import".
+
+2.
+From the import menu, select "existing projects into workspace".
+
+3.
+Use the explorer to select the location of the OpenTestBed directory.
+
+4.
+Once imported, from the project explorer,
+right click on the "Open Meerkat Hold'em Testbed"
+
+5.
+Select "run as..." and "java application"
+
+6.
+From the list of generated java files, select "MyCashGameConsoleStarter - (default package)"
+This will run a set of games as described by the parameters in "MyCashGameConsoleStarter.java"
+The default setting is 10,000 games.
+Hand history data and model data is stored in the /data/ directory of the project.
+
+7.
+To utilize the WEKA toolkit, we will select "Explorer - weka.gui.explorer"
+This will present a GUI which allows you to import .arff files which can then be
+used to create a model with various classifiers

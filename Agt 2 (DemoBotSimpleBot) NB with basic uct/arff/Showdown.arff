@@ -1,0 +1,104 @@
+@relation Showdown
+
+@attribute gameCount numeric
+@attribute potSize numeric
+@attribute logPotSize numeric
+@attribute stackSize numeric
+@attribute log1pStackSize numeric
+@attribute nbSeatedPlayers numeric
+@attribute nbActivePlayers numeric
+@attribute activePlayerRatio numeric
+@attribute betFrequency numeric
+@attribute foldFrequency numeric
+@attribute callFrequency numeric
+@attribute raiseFrequency numeric
+@attribute nbAllPlayerBetRaise numeric
+@attribute nbPlayerBetRaise numeric
+@attribute nbPlayerPreFlopBetRaise numeric
+@attribute nbPlayerPostFlopBetRaise numeric
+@attribute nbPlayerFlopBetRaise numeric
+@attribute nbPlayerTurnBetRaise numeric
+@attribute nbPlayerRiverBetRaise numeric
+@attribute allPlayerBetRaiseAmount numeric
+@attribute playerBetRaiseAmount numeric
+@attribute playerPreFlopBetRaiseAmount numeric
+@attribute playerPostFlopBetRaiseAmount numeric
+@attribute playerFlopBetRaiseAmount numeric
+@attribute playerTurnBetRaiseAmount numeric
+@attribute playerRiverBetRaiseAmount numeric
+@attribute allPlayerBetsAmount numeric
+@attribute playerBetsAmount numeric
+@attribute playerPreFlopBetsAmount numeric
+@attribute playerPostFlopBetsAmount numeric
+@attribute playerFlopBetsAmount numeric
+@attribute playerTuretsAmount numeric
+@attribute playerRiverBetsAmount numeric
+@attribute allPlayerRaisesAmount numeric
+@attribute playerRaisesAmount numeric
+@attribute playerPreFlopRaisesAmount numeric
+@attribute playerPostFlopRaisesAmount numeric
+@attribute playerFlopRaisesAmount numeric
+@attribute playerTurnRaisesAmount numeric
+@attribute playerRiverRaisesAmount numeric
+@attribute relNbPlayerBetRaise numeric
+@attribute relNbPlayerPreFlopBetRaise numeric
+@attribute relNbPlayerPostFlopBetRaise numeric
+@attribute relNbPlayerFlopBetRaise numeric
+@attribute relNbPlayerTurnBetRaise numeric
+@attribute relNbPlayerRiverBetRaise numeric
+@attribute relPlayerBetRaiseAmount numeric
+@attribute relPlayerPreFlopBetRaiseAmount numeric
+@attribute relPlayerPostFlopBetRaiseAmount numeric
+@attribute relPlayerFlopBetRaiseAmount numeric
+@attribute relPlayerTurnBetRaiseAmount numeric
+@attribute relPlayerRiverBetRaiseAmount numeric
+@attribute nbPlayerPreFlopBetRaiseTable numeric
+@attribute nbPlayerPostFlopBetRaiseTable numeric
+@attribute nbPlayerFlopBetRaiseTable numeric
+@attribute nbPlayerTurnBetRaiseTable numeric
+@attribute nbPlayerRiverBetRaiseTable numeric
+@attribute playerPreFlopBetRaiseAmountTable numeric
+@attribute playerPostFlopBetRaiseAmountTable numeric
+@attribute playerFlopBetRaiseAmountTable numeric
+@attribute playerTurnBetRaiseAmountTable numeric
+@attribute playerRiverBetRaiseAmountTable numeric
+@attribute lastActionWasBetRaise {false,true}
+@attribute VPIP numeric
+@attribute PFR numeric
+@attribute AF numeric
+@attribute AFq numeric
+@attribute logAFAmount numeric
+@attribute WtSD numeric
+@attribute opponentVPIP numeric
+@attribute opponentPFR numeric
+@attribute opponentAF numeric
+@attribute opponentAFq numeric
+@attribute opponentLogAFAmount numeric
+@attribute opponentWtSD numeric
+@attribute part0Prob numeric
+@attribute part1Prob numeric
+@attribute part2Prob numeric
+@attribute part3Prob numeric
+@attribute part4Prob numeric
+@attribute part5Prob numeric
+@attribute avgPartition {0,1,2,3,4,5}
+
+@data
+15,584.5,6.370757,45.5,3.839452,2,2,1,0.472,0.4325,0.30125,0.27,9,3,0,3,2,1,0,53.5,19.5,0,19.5,17,2.5,0,11.5,0,0,0,0,0,0,42,19.5,0,19.5,17,2.5,0,0.333333,0,0.333333,0.4,0.333333,0,0.364486,0,0.364486,0.386364,0.333333,0,0,9,5,3,1,0,53.5,44,7.5,2,false,0.326316,0.086316,1.5,0.3,-0.723245,0.207273,0.536842,0.349474,3.3,0.69375,0.910625,0.207273,0,0,1,0,0,0,2
+19,879,6.778785,0,0,2,2,1,0.472,0.33,0.3675,0.305,13,5,0,5,0,5,0,99,28.5,0,28.5,0,28.5,0,27.5,0,0,0,0,0,0,71.5,28.5,0,28.5,0,28.5,0,0.384615,0,0.416667,0,0.5,0,0.287879,0,0.349693,0,0.5,0,1,12,1,10,1,17.5,81.5,5,57,19.5,false,0.4,0.071304,1.227273,0.324,-0.888755,0.162857,0.530435,0.375652,4.272727,0.770213,1.016846,0.162857,0,0,0,1,0,0,3
+33,1176,7.069874,78,4.369448,2,2,1,0.472,0.383429,0.380571,0.237714,6,1,0,1,0,0,1,21,2,0,2,0,0,2,11,0,0,0,0,0,0,10,2,0,2,0,0,2,0.166667,0,0.2,0,0,0.333333,0.095238,0,0.129032,0,0,0.307692,1,5,1,1,3,5.5,15.5,2,7,6.5,false,0.356757,0.044324,0.935484,0.252778,-1.112252,0.126667,0.518919,0.422703,5.166667,0.8,1.246441,0.126667,0,0,0,0,1,0,4
+39,1271,7.147559,62,4.143135,2,2,1,0.56,0.377722,0.37519,0.248608,8,3,0,3,0,2,1,37,9.5,0,9.5,0,7.5,2,12.5,0,0,0,0,0,0,24.5,9.5,0,9.5,0,7.5,2,0.375,0,0.428571,0,0.5,0.5,0.256757,0,0.365385,0,0.5,0.5,1,7,1,4,2,11,26,7,15,4,true,0.353488,0.03814,0.970588,0.270732,-1.103231,0.114,0.493023,0.410233,4.857143,0.772973,1.247385,0.114,0,0,0,0,1,0,4
+42,1372.5,7.224389,54,4.007333,2,2,1,0.706667,0.361818,0.370909,0.268636,12,7,0,7,2,3,2,45,22,0,22,8.5,9,4.5,11,5,0,5,1,2,2,34,17,0,17,7.5,7,2.5,0.583333,0,0.636364,0.666667,0.6,0.666667,0.488889,0,0.564103,0.53125,0.5625,0.642857,1,11,3,5,3,6,39,16,16,7,true,0.373913,0.035652,1.081081,0.310638,-1.014881,0.103636,0.504348,0.426957,4.411765,0.764286,1.158889,0.103636,0,0,0,0,0,1,5
+50,1471.5,7.294037,61.5,4.135167,2,2,1,0.76,0.379794,0.357113,0.26433,7,4,1,3,1,1,1,37.5,15,1,14,1,2,11,14,3,0,3,1,2,0,23.5,12,1,11,0,0,11,0.571429,0.5,0.6,1,0.5,0.5,0.4,0.142857,0.459016,1,0.266667,0.5,2,5,1,2,2,7,30.5,1,7.5,22,true,0.337037,0.048889,1.128205,0.31619,-0.97737,0.09913,0.485185,0.419259,4.210526,0.744086,1.127909,0.09913,0,0,1,0,0,0,2
+88,1811,7.501635,16.5,2.862201,2,2,1,0.796923,0.46695,0.288227,0.245674,16,8,0,8,1,4,3,82.5,37,0,37,1,24,12,14,3,0,3,1,0,2,68.5,34,0,34,0,24,10,0.5,0,0.533333,0.5,0.5,0.6,0.448485,0,0.503401,0.285714,0.5,0.545455,1,15,2,8,5,9,73.5,3.5,48,22,true,0.241304,0.039565,1.222222,0.292715,-0.886248,0.078621,0.447826,0.376522,4.2,0.719084,1.114327,0.078621,0,0,0,0,0,1,5
+99,2105,7.652071,78.5,4.375757,2,2,1,0.811429,0.452422,0.283478,0.264845,8,3,0,3,1,1,1,20.5,7,0,7,2.5,2.5,2,6,0,0,0,0,0,0,14.5,7,0,7,2.5,2.5,2,0.375,0,0.428571,0.333333,0.5,0.5,0.341463,0,0.378378,0.238095,0.5,0.666667,1,7,3,2,2,2,18.5,10.5,5,3,true,0.254369,0.054757,1.28,0.309302,-0.979024,0.07125,0.467961,0.404272,4.285714,0.723179,1.197032,0.07125,0,0,0,1,0,0,3
+118,2356,7.76472,58.5,4.085976,2,2,1,0.824,0.4575,0.300208,0.242917,5,1,0,1,0,0,1,40.5,2,0,2,0,0,2,10.5,2,0,2,0,0,2,30,0,0,0,0,0,0,0.2,0,0.25,0,0,0.5,0.049383,0,0.052632,0,0,0.0625,1,4,1,1,2,2.5,38,4,2,32,false,0.263934,0.062623,1.112903,0.285294,-1.053472,0.063333,0.485246,0.423279,4.862069,0.744,1.279785,0.063333,0,0,0,0,1,0,4
+160,2922,7.980023,69,4.248495,2,2,1,0.844706,0.50336,0.27856,0.21856,5,2,0,2,2,0,0,30,14.5,0,14.5,14.5,0,0,3,1,0,1,1,0,0,27,13.5,0,13.5,13.5,0,0,0.4,0,0.4,0.666667,0,0,0.483333,0,0.483333,0.517857,0,0,0,5,3,1,1,0,30,28,1,1,false,0.232927,0.05878,1.067568,0.258333,-1.058986,0.053023,0.50122,0.442927,5.5625,0.770507,1.356013,0.053023,0,0,0,1,0,0,3
+187,3311.5,8.105157,0,0,2,2,1,0.861053,0.52042,0.267972,0.212028,13,6,0,6,2,2,2,99,46,0,46,15,17.5,13.5,16,0,0,0,0,0,0,83,46,0,46,15,17.5,13.5,0.461538,0,0.5,0.5,0.5,0.5,0.464646,0,0.497297,0.5,0.5,0.490909,1,12,4,4,4,6.5,92.5,30,35,27.5,true,0.231414,0.050471,1.074074,0.252318,-0.975546,0.046531,0.508901,0.453613,5.583333,0.77004,1.346076,0.046531,0,0,0,0,0,0,0
+201,3771.5,8.235229,72,4.29046,2,2,1,0.88,0.51074,0.27537,0.214277,5,1,0,1,0,0,1,27,6.5,0,6.5,0,0,6.5,14.5,0,0,0,0,0,0,12.5,6.5,0,6.5,0,0,6.5,0.2,0,0.25,0,0,0.5,0.240741,0,0.309524,0,0,0.5,1,4,1,1,2,6,21,6,2,13,true,0.24,0.051902,1.066667,0.258182,-0.929569,0.041455,0.518049,0.451902,5.214286,0.762637,1.344142,0.041455,0,0,0,0,0.5,0.5,5
+207,3982.5,8.289665,24.5,3.238678,2,2,1,0.885217,0.504149,0.274427,0.221796,12,6,0,6,3,2,1,74.5,30.5,0,30.5,22.5,5.5,2.5,8,2,0,2,0,2,0,66.5,28.5,0,28.5,22.5,3.5,2.5,0.5,0,0.545455,0.5,0.666667,0.5,0.409396,0,0.516949,0.5,0.611111,0.5,1,11,6,3,2,15.5,59,45,9,5,true,0.242654,0.050427,1.096774,0.265889,-0.908203,0.04,0.517536,0.45327,5.066667,0.759441,1.324152,0.04,0,0,0,0,1,0,4
+287,5232.5,8.562644,0,0,2,2,1,0.8944,0.525714,0.271293,0.203265,11,4,0,4,3,1,0,99,11.5,0,11.5,9,2.5,0,70,0,0,0,0,0,0,29,11.5,0,11.5,9,2.5,0,0.363636,0,0.4,0.5,0.333333,0,0.116162,0,0.125683,0.5,0.3125,0,1,10,6,3,1,7.5,91.5,18,8,65.5,false,0.227491,0.043436,0.983871,0.240173,-0.965126,0.032571,0.516151,0.466117,6.375,0.791421,1.409917,0.032571,0,0,0,0,1,0,4
+296,5396.5,8.593506,75.5,4.337291,2,2,1,0.902222,0.51817,0.28244,0.199651,7,2,0,2,1,1,0,23.5,4,0,4,2,2,0,13.5,2,0,2,0,2,0,10,2,0,2,2,0,0,0.285714,0,0.333333,0.333333,0.5,0,0.170213,0,0.258065,0.210526,0.444444,0,1,6,3,2,1,8,15.5,9.5,4.5,1.5,false,0.227333,0.042133,0.940298,0.238509,-0.985914,0.031667,0.517333,0.4688,6.645833,0.796382,1.420733,0.031667,0,0,0,1,0,0,3
+298,5450.5,8.603462,83,4.430817,2,2,1,0.902222,0.512532,0.286781,0.200944,6,2,0,2,0,1,1,16,4.5,0,4.5,0,2.5,2,11.5,0,0,0,0,0,0,4.5,4.5,0,4.5,0,2.5,2,0.333333,0,0.4,0,0.5,0.5,0.28125,0,0.409091,0,0.5,0.5,1,5,1,2,2,5,11,2,5,4,true,0.23245,0.041854,0.927536,0.239184,-0.989637,0.030811,0.52053,0.472318,6.5,0.795443,1.422091,0.030811,0,0,0,1,0,0,3
+329,5629,8.635687,79,4.382027,2,2,1,0.908966,0.520721,0.281844,0.197675,7,3,0,3,1,1,1,20,9,0,9,5,2,2,8,0,0,0,0,0,0,12,9,0,9,5,2,2,0.428571,0,0.5,0.5,0.5,0.5,0.45,0,0.529412,0.5,0.5,0.666667,1,6,2,2,2,3,17,10,4,3,true,0.225826,0.040961,0.931035,0.236571,-0.981278,0.029231,0.511111,0.467387,6.471698,0.781647,1.429806,0.029231,0,0,0,0,1,0,4
+391,6427,8.768263,95,4.564348,2,2,1,0.928649,0.526678,0.293287,0.180243,2,0,0,0,0,0,0,4,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,3,3,0,0,false,0.228354,0.037063,0.855491,0.225287,-1.095164,0.02375,0.51443,0.467443,6.576271,0.77137,1.536567,0.02375,0,0,0,1,0,0,3

@@ -1,0 +1,59 @@
+@relation PreFoldCallRaise
+
+@attribute roundCompletion numeric
+@attribute playersActed numeric
+@attribute playersToAct numeric
+@attribute gameCount numeric
+@attribute somebodyActedThisRound {false,true}
+@attribute nbActionsThisRound numeric
+@attribute potSize numeric
+@attribute stackSize numeric
+@attribute deficit numeric
+@attribute potOdds numeric
+@attribute maxbet numeric
+@attribute nbSeatedPlayers numeric
+@attribute nbActivePlayers numeric
+@attribute activePlayerRatio numeric
+@attribute foldFrequency numeric
+@attribute callFrequency numeric
+@attribute raiseFrequency numeric
+@attribute foldFrequencyRound numeric
+@attribute callFrequencyRound numeric
+@attribute raiseFrequencyRound numeric
+@attribute isComitted {false,true}
+@attribute nbAllPlayerRaises numeric
+@attribute nbPlayerRaises numeric
+@attribute gameRaisePercentage numeric
+@attribute gameRaiseAmount numeric
+@attribute gameRaiseAmountRatio numeric
+@attribute lastActionWasRaise {false,true}
+@attribute VPIP numeric
+@attribute PFR numeric
+@attribute AF numeric
+@attribute AFq numeric
+@attribute AFAmount numeric
+@attribute WtSD numeric
+@attribute opponentVPIP numeric
+@attribute opponentPFR numeric
+@attribute opponentAF numeric
+@attribute opponentAFq numeric
+@attribute opponentLogAFAmount numeric
+@attribute opponentWtSD numeric
+@attribute foldProb numeric
+@attribute callProb numeric
+@attribute raiseProb numeric
+@attribute action {fold,call,raise}
+
+@data
+0,0,2,1,false,0,1.5,99.5,-0.693147,0.25,0,2,2,1,0.71,0.16,0.16,0.71,0.14,0.15,true,0,0,0,0,0,false,0.24,0.128,2.4,0.24,0.182322,0.57,0.24,0.128,2.4,0.24,0.182322,0.57,0,1,0,call
+1,1,0,1,true,2,4,99,0.693147,0.333333,1.098612,2,2,1,0.568,0.328,0.128,0.568,0.312,0.12,true,1,0,0,0,0,false,0.44,0.128,2,0.2,0.087011,0.57,0.44,0.328,2.6,0.366667,0.470004,0.57,0,1,0,call
+0,0,2,3,false,0,203,99.5,-0.693147,0.002457,0,2,2,1,0.315556,0.404444,0.293333,0.473333,0.426667,0.1,true,0,0,0,0,0,false,0.314286,0.091429,1.875,0.381818,-1.056815,0.456,0.314286,0.234286,3.2,0.52,1.098612,0.456,0,1,0,call
+1,1,0,3,true,2,213.5,99,2.302585,0.044743,2.397895,2,2,1,0.284,0.464,0.264,0.405714,0.508571,0.085714,true,1,0,0,0,0,false,0.457143,0.091429,1.666667,0.35,-1.062894,0.456,0.457143,0.377143,3.4,0.563636,1.213023,0.456,1,0,0,fold
+0,0,2,5,false,0,216.5,99.5,-0.693147,0.002304,0,2,2,1,0.349091,0.421818,0.24,0.48,0.445,0.075,true,0,0,0,0,0,false,0.355556,0.071111,1.666667,0.323077,-1.062894,0.456,0.355556,0.293333,3.4,0.516667,1.213023,0.456,0,1,0,call
+1,1,0,5,true,2,219,99,0.693147,0.00905,1.098612,2,2,1,0.32,0.47,0.22,0.426667,0.506667,0.066667,true,1,0,0,0,0,false,0.466667,0.071111,1.5,0.3,-1.068936,0.456,0.466667,0.404444,3.6,0.553846,1.234414,0.456,0,1,0,call
+0,0,2,7,false,0,244,99.5,-0.693147,0.002045,0,2,2,1,0.345714,0.474286,0.188571,0.384,0.556,0.06,true,0,0,0,0,0,false,0.381818,0.058182,1.363636,0.2625,-1.092747,0.38,0.381818,0.330909,3.8,0.546667,1.426389,0.38,0,1,0,call
+1,1,0,7,true,2,246.5,99,0.693147,0.008048,1.098612,2,2,1,0.322667,0.509333,0.176,0.349091,0.596364,0.054545,true,1,0,0,0,0,false,0.472727,0.058182,1.25,0.247059,-1.098612,0.38,0.472727,0.421818,4,0.575,1.443705,0.38,0,1,0,call
+0,0,2,9,false,0,445.5,99.5,-0.693147,0.001121,0,2,2,1,0.210435,0.506087,0.288696,0.32,0.63,0.05,true,0,0,0,0,0,false,0.4,0.049231,1.375,0.4,-0.703729,0.325714,0.4,0.356923,5.4,0.675,0.903256,0.325714,1,0,0,fold
+0,0,2,11,false,0,448.5,99.5,-0.693147,0.001114,0,2,2,1,0.243333,0.485,0.276667,0.372308,0.581538,0.046154,true,0,0,0,0,0,false,0.346667,0.042667,1.375,0.386207,-0.703729,0.325714,0.346667,0.309333,5.4,0.648,0.903256,0.325714,1,0,0,fold
+0,0,2,13,false,0,451.5,99.5,-0.693147,0.001106,0,2,2,1,0.2736,0.4656,0.2656,0.417143,0.54,0.042857,true,0,0,0,0,0,false,0.305882,0.037647,1.375,0.373333,-0.703729,0.325714,0.305882,0.272941,5.4,0.623077,0.903256,0.325714,1,0,0,fold
+0,0,2,15,false,0,454.5,99.5,-0.693147,0.001099,0,2,2,1,0.301538,0.447692,0.255385,0.456,0.504,0.04,true,0,0,0,0,0,false,0.273684,0.033684,1.375,0.36129,-0.703729,0.325714,0.273684,0.244211,5.4,0.6,0.903256,0.325714,0,1,0,call
